@@ -1,0 +1,23 @@
+body{
+	background-color: yellow;  font-family: 'Saira Condensed', sans-serif;
+}
+header{
+	font-size:20px;text-align: center; font-size-adjust: 5%; background-color: orange; margin: 1%; 
+}
+h2{
+	font-size:25px; font-weight: bold; display:inline-block; border-style:solid; border-color: pink; 
+	border-radius: 20px; margin-left: 2px; padding: 4px;
+   
+}
+div.div1{
+	display:inline-flex; flex-direction: row;
+}
+img {
+	width: 50%;height:50%; margin:60px 10px 5px 10px;border-radius:20px; border-style:inherit;
+}
+h4{
+	font-size:25px; font-weight: bold; display:inline-block; border-style:solid;
+	border-radius: 20px; margin-left: 2px;padding:4px;
+}p {
+	margin-top:-20.5px;
+}
